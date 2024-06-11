@@ -1,3 +1,4 @@
 # go-conway2d
 
-Conway Game of Life to learn about Go and [raylib](https://www.raylib.com/).
+[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) to learn about Go and [raylib](https://www.raylib.com/).
+
